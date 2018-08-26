@@ -16,6 +16,8 @@ Rails 5.0.7
 >最新の安定しているものを使用します。
 
 後ほど環境構築の手順作っておきます。
+memo  
+https://qiita.com/hujuu/items/3d600f2b2384c145ad12
 
 # 使い方
 
