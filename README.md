@@ -13,7 +13,9 @@ Rails 5.0.7
 
 [Ruby公式HP](https://www.ruby-lang.org/ja/downloads/)
 [Rails Github](https://github.com/rails/rails)  
->最新で安定しているものを使用します。
+>最新の安定しているものを使用します。
+
+後ほど環境構築の手順作っておきます。
 
 # 使い方
 
