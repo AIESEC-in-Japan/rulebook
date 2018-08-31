@@ -1,6 +1,5 @@
 # アカウント名・グループ名命名規則
----
-
+################################
 :Date: 2017-03-27
 :Authors: - genta.mochizawa
 :URL: https://gist.github.com/mc-is/c2dc870ed8e2a72555d6800dadd13168
