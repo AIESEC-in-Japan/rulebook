@@ -1,12 +1,14 @@
-アカウント名・グループ名命名規則
-################################
- :Date: 2017-03-27
+# アカウント名・グループ名命名規則
+---
+
+:Date: 2017-03-27
 :Authors: - genta.mochizawa
 :URL: https://gist.github.com/mc-is/c2dc870ed8e2a72555d6800dadd13168
 :Updated: |date| at |time|
- .. |date| date::
+.. |date| date::
 .. |time| date:: %H:%M
 .. contents::
+
  この命名規則はMCISが修正・向上させることができる．また，すべてのメンバーが改善の
 提案をコメントすることができる．
  アカウント名
