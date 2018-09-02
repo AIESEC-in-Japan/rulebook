@@ -9,7 +9,7 @@ _format_
 ## 1819term
 >こまつ
 
-- MC, BCXP/IS
+- MC, BCXP/IS  
 [yukikoma](https://github.com/Yuki-k-lion)
 
 >ながたくくん
