@@ -38,7 +38,8 @@ _format_
 
 >近藤くん
 
-
+- HU, MarCo/OGX  
+[kontaku](https://github.com/customtea)
 
 >山本くん
 
