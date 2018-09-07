@@ -33,3 +33,9 @@ https://qiita.com/hujuu/items/3d600f2b2384c145ad12
 
 ## githubの運用ルール
 詳細は[こちら](https://github.com/AIESEC-in-Japan/rulebook/blob/master/Githubusage.md#github%E4%BD%BF%E3%81%84%E6%96%B9%E9%81%8B%E7%94%A8%E3%83%AB%E3%83%BC%E3%83%AB)
+
+## LGTM画像
+`![LGTM](https://github.com/AIESEC-in-Japan/rulebook/blob/master/lgtm2.gif)`
+![LGTM](https://github.com/AIESEC-in-Japan/rulebook/blob/master/lgtm2.gif)
+`![LGTM](https://github.com/AIESEC-in-Japan/rulebook/blob/master/lgtm.gif)`
+![LGTM](https://github.com/AIESEC-in-Japan/rulebook/blob/master/lgtm.gif)
