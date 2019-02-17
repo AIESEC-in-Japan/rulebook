@@ -35,7 +35,7 @@ LC名はこの `リスト <http://resources.aiesec.jp/lcname>`_ に従う::
     ch: chuo
     do: doshisha
     hd: hokkaido
-    hi: hit
+    hi: hitostubashi
     hu: hiroshima
     jo: sophia
     kb: kobe
